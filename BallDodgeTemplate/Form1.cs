@@ -20,6 +20,8 @@ namespace BallDodgeTemplate
             ChangeScreen(this, new MenuScreen());
         }
 
+
+
         /// <summary>
         /// Opens a new screen and closes previous screen if one exists
         /// </summary>
